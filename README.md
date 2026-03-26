@@ -3,11 +3,14 @@
 </a>
 <a href="https://github.com/ProGroupco">
     <img src="https://github.com/ProGroupco.png" width="50" />
+</a><a href="https://github.com/BRO-GANG">
+    <img src="https://github.com/BRO-GANG.png" width="50" />
 </a>
 <a href="https://github.com/Rinagirl">
     <img src="https://github.com/Rinagirl/Pic/blob/main/ae775ccb-ec05-4343-a871-2e0c948faacd.jpeg" width="50" />
 </a>
-<a href="https://github.com/BRO-GANG">
-    <img src="https://github.com/BRO-GANG.png" width="50" />
+<a href="https://github.com/PinkTechRro">
+    <img src="https://github.com/Rinagirl/Pic/blob/main/X.jpeg" width="50" />
 </a>
+
 
